@@ -1,0 +1,4 @@
+TELL
+(k <=> (m => ~n)) & l & (l => k); m; ~o || p;
+ASK
+n
